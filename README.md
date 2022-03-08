@@ -20,3 +20,4 @@
 - colocar a minha foto no perfil do usuário.
 - fazer aparecer toda as imagens relacionadas ao PIX *(não foi tratado isso no período do projeto)*
 - Coloquei o ícone do chat com link direcionado a minha janela do whatsapp
+- O QRCode que aparece direciona para a minha página do about.com
