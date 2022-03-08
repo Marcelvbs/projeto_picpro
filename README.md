@@ -3,7 +3,7 @@
 
 **O projeto consiste em replicar a página do Picpay**
 
-*Foi importante participar desse projeto para relembrar um pouco de desenvovimento web*
+*Foi importante participar desse projeto para relembrar um pouco de desenvolvimento web*
   - HTML
   - CSS
   - JavaScript
